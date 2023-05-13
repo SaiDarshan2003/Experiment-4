@@ -19,11 +19,20 @@ Step 5 : Display the result in the terminal.
 
 ## Program
 
-
+```
+public class Main {
+    public static void main(String[] args) {
+        for (int i = 2; i <= 20; i += 2) {
+            System.out.print(i + " ");
+        }
+    }
+}
+```
 
 
 ## Output
-
+![4](https://github.com/SaiDarshan2003/Experiment-4/assets/94692595/7b0352b2-f31f-470d-b8fa-e5a669d80330)
 
 ## Result 
+
   We have successfully created a Java program to display the even numbers from 1-20.
