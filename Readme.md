@@ -1,6 +1,6 @@
-# Experiment-4
+# Experiment-3
 
-# To display the even numbers from 1-20
+# To display the even numbers from a range
 
 ## Aim:
   To write a Java program to display the even numbers from 1-20.
